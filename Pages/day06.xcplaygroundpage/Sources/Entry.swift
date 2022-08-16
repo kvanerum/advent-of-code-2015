@@ -1,5 +1,4 @@
 import Foundation
-import advent_of_code_2015_Sources
 
 public struct Entry {
 
